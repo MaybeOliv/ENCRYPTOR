@@ -1,2 +1,2 @@
 # binary-encryptor
-A simple encryptor
+A simple encryptor.
